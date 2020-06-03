@@ -1,4 +1,4 @@
-"""Made by https://github.com/CyberDemon-crypto 658"""
+"""Made by https://github.com/CyberDemon-crypto"""
 import os
 from random import randint
 
