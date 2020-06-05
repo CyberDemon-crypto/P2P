@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Made by https://github.com/CyberDemon-crypto"""
 import os
 from random import randint
